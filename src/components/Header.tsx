@@ -11,6 +11,7 @@ export const Header = () => {
     { to: "/", label: "Home" },
     { to: "/about", label: "About" },
     { to: "/categories", label: "Categories" },
+    { to: "/ascii-converter", label: "ASCII Converter" },
     { to: "/contact", label: "Contact" },
     { to: "/privacy", label: "Privacy Policy" },
     { to: "/terms", label: "Terms of Service" },
