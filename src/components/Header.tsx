@@ -26,7 +26,7 @@ export const Header = () => {
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-3xl">😊</span>
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              EmojiHub
+              BruteFaces
             </span>
           </Link>
 
