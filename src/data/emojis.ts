@@ -468,4 +468,13 @@ export const categories = [
   "Surprised",
   "Sick",
   "Fantasy",
+  "Animals",
+  "Transportation",
+  "Food",
+  "Nature",
+  "Technology",
+  "Sports",
+  "Music",
+  "Travel",
+  "Objects",
 ];

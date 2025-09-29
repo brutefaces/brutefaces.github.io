@@ -1,4 +1,4 @@
-# EmojiHub - Emoji Faces & Emoticons App
+# BruteFaces - Emoji Faces & Emoticons App
 
 ## Overview
 A modern React web application for discovering, copying, and sharing thousands of expressive emoji faces and emoticons. Built with React, TypeScript, Vite, and Tailwind CSS with shadcn/ui components.
